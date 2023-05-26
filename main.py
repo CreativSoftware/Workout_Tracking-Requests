@@ -10,11 +10,11 @@ WEIGHT_KG = 95.25
 HEIGHT_CM = 15.24
 AGE = 40
 
-USERNAME = "eperry"
-PASSWORD = "Sept1982!"
+USERNAME = ""
+PASSWORD = ""
 
-APP_ID = "77822916"
-API_KEY = "f792e76c95b30b8ea30031de9b8b2772"
+APP_ID = ""
+API_KEY = ""
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 sheety_endpoint = "https://api.sheety.co/4f8ef46e6ac6156262f9804f34d24cff/workoutTracking/workouts"
